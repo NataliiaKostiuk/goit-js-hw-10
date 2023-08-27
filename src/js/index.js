@@ -64,12 +64,4 @@ function createCatsCard(breed) {
 
 
 
-//     .catch(error => {
-//       Notiflix.Notify.failure(
-//         'Oops! Something went wrong! Try reloading the page!'
-//       );
-//     })
-//     .finally(() => loaderEl.classList.add('unvisible'));
-// }
-
 
